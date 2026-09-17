@@ -1,0 +1,2 @@
+# STRAD
+Traducteur évolué
